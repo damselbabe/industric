@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&family=Roboto+Condensed:wght@400;700&display=swap');
+
+
+*{
+    text-decoration: none !important;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+.btn{
+    border-radius: 0 !important;
+}
+.card{
+    border-radius: 0 !important;
+}
+
+/* topnav  */
+.container-fluid{
+    background: #3a3838;
+}
+
+a{
+    color: #000;
+}
+/* navbar  */
+.navbar .nav-item .nav-link{
+    padding: 0rem 2rem;
+   
+  }
+.navbar{
+    background: #fff !important;
+}
+
+ .navbar-brand img{
+    height: 50%;
+    width: 50%;
+} 
+.navbar-toggler{
+    outline: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+#slider .carousel-inner .carousel-item{
+    height: 70vh;
+    min-height: 300px;
+}
+#slider .carousel-caption{
+    padding-top: 2rem !important;
+    padding-bottom: 14rem !important;
+}
+#slider .carousel-caption h4{
+    font-weight: bold;
+}
+#slider .carousel-caption .btn{
+    color: #fff !important;
+}
+
+#material{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    
+}
+#industrial{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    
+}
+#industry{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    
+}
